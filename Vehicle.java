@@ -19,6 +19,7 @@ public class Vehicle {
 
         System.out.println("Vehicle Number: " + vehicleNumber);
         System.out.println("Waste Collected: " + wasteCollected + " kg");
+        
         System.out.println("Collection Points: " + collectionPoints);
         System.out.println("Vehicle Status: " + vehicleStatus);
 
